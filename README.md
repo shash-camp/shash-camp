@@ -1,10 +1,9 @@
 <h1 align="center">Hi 👋, I'm Shashank Singh</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
+<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
+- 💬 Ask me about **C++,HTML,CSS,TAILWINDCSS,JAVASCRIPT,REACT,MYSQL**
 - 🌱 I’m currently learning **React**
-
-- 💬 Ask me about **HTML,CSS,JAVASCRIPT,REACT,MYSQL,TAILWINDCSS**
-
 - 📫 How to reach me **shashank221405@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
